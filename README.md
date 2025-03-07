@@ -33,19 +33,11 @@ To run this project, install the necessary dependencies:
 pip install numpy pandas scikit-learn tensorflow keras
 ```
 
-## Usage
-Run the following script to train and evaluate models:
-```bash
-python spam_classifier.py
-```
-
 ## Contributions
 Feel free to contribute by improving models, adding features, or optimizing preprocessing steps.
 
 ## License
 This project is for educational purposes. Unauthorized sharing of the dataset may be restricted.
 
----
-**Author:** Your Name  
-**Contact:** your.email@example.com
+
 
